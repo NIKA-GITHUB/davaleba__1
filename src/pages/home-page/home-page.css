@@ -1,0 +1,6 @@
+.h2Styles {
+  color: rgb(255, 0, 0);
+  border: 1px solid red;
+  max-width: 50%;
+  margin: auto;
+}
